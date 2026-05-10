@@ -1,15 +1,12 @@
-me: Java CI with Maven
-
+name: Java CI with Maven
 on:
   push:
     branches: [ "main", "master" ]
   pull_request:
     branches: [ "main", "master" ]
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     
