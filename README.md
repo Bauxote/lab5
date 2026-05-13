@@ -9,3 +9,7 @@
 https://bauxote.github.io/lab5/
 
 ## Відео
+
+
+https://github.com/user-attachments/assets/e0465f33-7acd-4071-95ab-43a44609c3c5
+
